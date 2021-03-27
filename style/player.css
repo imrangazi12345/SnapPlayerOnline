@@ -1,0 +1,41 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  src: url("../fonts/Nunito-Regular.ttf");
+  font-family: my-Regular;
+}
+
+#moves-video {
+  width: 100%;
+}
+
+.player-ifrem {
+  height: 100vh;
+  width: 100%;
+}
+
+p {
+  font-size: 1.5rem;
+  padding: 10px;
+  font-family: my-Regular;
+}
+
+#link {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 1.3rem;
+  padding: 10px 80px;
+  text-decoration: none;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  font-family: my-Regular;
+  background-color: #226fd4;
+  color: #fff;
+}

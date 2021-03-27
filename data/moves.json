@@ -1,0 +1,63 @@
+[
+  {
+    "id":1,
+    "tit":"KGF Capter 1 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  },
+  {
+    "id":2,
+    "tit":"KGF Capter 2 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  },
+  {
+    "id":3,
+    "tit":"KGF Capter 3 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  },
+  {
+    "id":4,
+    "tit":"KGF Capter 4 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  },
+  {
+    "id":5,
+    "tit":"KGF Capter 5 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  },
+  {
+    "id":6,
+    "tit":"KGF Capter 6 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  },
+  {
+    "id":7,
+    "tit":"KGF Capter 7 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  },
+  {
+    "id":8,
+    "tit":"KGF Capter 8 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  },
+  {
+    "id":9,
+    "tit":"KGF Capter 9 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  },
+  {
+    "id":10,
+    "tit":"KGF Capter 10 Full Move ",
+    "thumb":"../assets/items/tumb.jpg",
+    "link":"../assets/vdo/video.mp4"
+  }
+  
+]

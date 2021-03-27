@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+  <link rel="stylesheet" href="./style/main.css">
+  <link rel="stylesheet" href="./style/player.css">
+  <title>App</title>
+</head>
+<body>
+  <!-- top menu -->
+  <div class="container">
+    <div id="brand"><span style="font-weight: 10;">player</span> </div>
+    <div onclick="sliderOpen()" class="menu-bar">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
+  <div style="height: 160px;"></div>
+
+  <!-- menu slider -->
+  <div onclick="sliderClose()" class="menu-slider-bg"></div>
+  <div class="menu-slider">
+    <ul onclick="sliderClose()" class="slider-menu-list">
+      <li onclick="window.location.href='/'">Home</li>
+      <li onclick="window.location.href='./pages/moves.html'">Movies</li>
+      <li onclick="window.location.href='https://tiktok.com'">Tik Tok</li>
+      <li onclick="window.location.href='https://m.youtube.com'">YouTube</li>
+    </ul>
+  </div> 
+
+  <!-- all content Display this div -->
+  <div id="root"></div>
+  
+  
+  <script src="./js/fatch_data_for_home.js"></script>
+  <script src="./js/slider_animation.js"></script>
+</body>
+</html>
