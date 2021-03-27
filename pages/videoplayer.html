@@ -13,7 +13,14 @@
     <!-- <video id="moves-video" src="../assets/vdo/video.mp4" controls>Error !</video>
     <p></p> -->
   </div>
-  <a id="link" href="./moves.html">Back</a>
+  <a id="link" href="#">Back</a>
+
+  <script>
+    document.getElementById('link').addEventListener("click",(e)=>{
+      e.preventDefault();
+      window.history.back();
+    });
+  </script>
 
   <script src="../js/player.js"></script>
 </body>
